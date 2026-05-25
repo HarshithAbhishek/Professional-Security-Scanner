@@ -1,0 +1,34 @@
+
+====================================
+TARGET INFORMATION
+====================================
+
+Target: google.com
+IP Address: 142.251.43.46
+
+
+[+] Running Port Scan...
+
+[OPEN] Port 80 → None
+[OPEN] Port 443 → None
+
+====================================
+RISK ANALYSIS
+====================================
+
+No major risks detected
+
+====================================
+HEADER ANALYSIS
+====================================
+
+[MISSING] Content-Security-Policy
+[MISSING] Strict-Transport-Security
+[MISSING] X-Content-Type-Options
+
+====================================
+CVE ANALYSIS
+====================================
+
+No known CVEs detected
+

@@ -1,0 +1,13 @@
+VULNERABILITY SCAN REPORT
+========================================
+
+Target: google.com
+
+OPEN PORTS:
+- Port 80 OPEN
+- Port 443 OPEN
+
+MISSING SECURITY HEADERS:
+- Content-Security-Policy
+- Strict-Transport-Security
+- X-Content-Type-Options

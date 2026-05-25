@@ -1,0 +1,32 @@
+
+====================================
+TARGET INFORMATION
+====================================
+
+Target: facebook.com
+IP Address: 57.144.54.1
+
+
+[+] Running Port Scan...
+
+[OPEN] Port 80 → None
+[OPEN] Port 443 → None
+
+====================================
+RISK ANALYSIS
+====================================
+
+No major risks detected
+
+====================================
+HEADER ANALYSIS
+====================================
+
+No missing headers detected
+
+====================================
+CVE ANALYSIS
+====================================
+
+No known CVEs detected
+
