@@ -5,14 +5,15 @@ A professional Python-based cybersecurity scanner for vulnerability assessment a
 
 ## Screenshots
 
-<img src="screenshots/20260526_001452.jpg" width="800"/>
+![SS1](screenshots/Screenshots/20260526_001452.jpg)
 
-<img src="screenshots/20260526_001939.jpg" width="800"/>
+![SS2](screenshots/Screenshots/20260526_001939.jpg)
 
-<img src="screenshots/20260526_001958.jpg" width="800"/>
+![SS3](screenshots/Screenshots/20260526_001958.jpg)
 
-<img src="screenshots/20260526_002309.jpg" width="800"/>
-## Features
+![SS4](screenshots/Screenshots/20260526_002309.jpg)
+
+## Features 
 
 - Multithreaded Port Scanning
 - Service Banner Detection
