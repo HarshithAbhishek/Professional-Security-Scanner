@@ -1,8 +1,6 @@
 # Professional Security Scanner
 
 A professional Python-based cybersecurity scanner for vulnerability assessment and network reconnaissance.
-## screenshots
-https://github.com/HarshithAbhishek/Professional-Security-Scanner/blob/main/20260526_001452.jpg
 
 ## Features
 
